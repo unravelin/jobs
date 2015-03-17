@@ -6,18 +6,17 @@ March 2015
 About
 
     We're looking for a core member of our engineering team to mature our
-    infrastructure and guide our development as we scale up and out.
-    We're a lean and experienced team, running some of the most interesting
-    tech in Europe today.
+    infrastructure and guide our development as we scale up and out. We're a
+    lean and experienced team, running some of the most interesting tech in
+    Europe today.
 
 Expertise in
 
     Amazon Web Services
-        You've been using AWS since before it was cool, and aren't taken in
-        by all this Cloud malarkey. You know that AWS is a series of
-        tradeoffs, and what those tradeoffs are. You know the weird and
-        wonderful ways in which your infrastructure will betray you at 3am
-        on a Saturday morning.
+        You've been using AWS since before it was cool, and aren't taken in by
+        all this Cloud malarkey. You know that AWS is a series of tradeoffs,
+        and what those tradeoffs are. You know the weird and wonderful ways in
+        which your infrastructure will betray you at 3am on a Saturday morning.
 
     Infrastructure Automation
         You get computers to do computers' work, because manually apt-getting
@@ -26,42 +25,41 @@ Expertise in
         familiar old friend. You write automation tools in python and golang.
 
     System and Data Security
-        You're faintly embarrassed this is even on the list, given how core
-        to the job it is. You've handled audits, penetration tests, intrusion
+        You're faintly embarrassed this is even on the list, given how core to
+        the job it is. You've handled audits, penetration tests, intrusion
         detection systems, and every PCI level going.
 
     Containers
-        You've been using containers since they were lowly cgroups, and
-        aren't taken in by the docker hype machine, but love the isolated
-        execution context and how containers can speed up and standardise
-        the development, deployment and running of code.
+        You've been using containers since they were lowly cgroups, and aren't
+        taken in by the docker hype machine, but love the isolated execution
+        context and how containers can speed up and standardise the
+        development, deployment and running of code.
 
     Linux (in particular Ubuntu)
         You thrive on the command line, and take pride in an elegant bash
         one-liner. Spreading your linux knowledge is a passion.
 
     Hipsterware
-        You're up to date with the latest in devops hipsterware, because
-        the only way to find out if what those mustachioed artisanal toast
-        eaters have produced is any good is to fire up a few VMs and see
-        what it can do. And what it can't.
+        You're up to date with the latest in devops hipsterware, because the
+        only way to find out if what those mustachioed artisanal toast eaters
+        have produced is any good is to fire up a few VMs and see what it can
+        do. And what it can't.
 
     Monitoring
-        Getting woken up occasionally is part of the job. But making it
-        easy to diagnose and recover from issues when they do happen, and
-        running a great blameless postmortem are the secret to how you
-        sleep so well.
+        Getting woken up occasionally is part of the job. But making it easy to
+        diagnose and recover from issues when they do happen, and running a
+        great blameless postmortem are the secret to how you sleep so well.
 
     Databases, Message Queues & Data Streams
-        You know the merits and disadvantages of Postgres, HBase, Cassandra
-        and Redis. You can produce a watertight data pipeline that scales
-        massively. You're watching the rise of Spark, and have used Kafka
-        and every fooMQ going.
+        You know the merits and disadvantages of Postgres, HBase, Cassandra and
+        Redis. You can produce a watertight data pipeline that scales
+        massively. You're watching the rise of Spark, and have used Kafka and
+        every fooMQ going.
 
 Knowledge of
 
-    Golang, Python, Zookeeper, RabbitMQ, NSQ, AWS Kinesis, docker, Google
-    Compute Engine, agile development
+    Puppet/Chef, Golang, Python, Zookeeper, RabbitMQ, NSQ, AWS Kinesis, docker,
+    Google Compute Engine, agile development
 
 Apply
 
