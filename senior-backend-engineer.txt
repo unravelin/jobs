@@ -9,10 +9,10 @@ About
     of a high volume fraud technology platform within a small tech team. As a
     founding engineer you will be invited and expected to have opinions about
     the strategic direction of the company and products, as well as leading the
-    development team from the front. A successful candidate will be willing
-    learning new skills (machine learning, neural networks, python, golang,
-    cloud automation etc), turning their hand to necessary tasks and working
-    with complete autonomy.
+    development team from the front. A successful candidate will be willing to
+    learn new skills (machine learning, neural networks, python, golang, cloud
+    automation etc), turning their hand to necessary tasks and working with
+    complete autonomy.
 
 Technology
 
