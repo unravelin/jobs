@@ -53,7 +53,7 @@ Expertise in
 
 Knowledge of
 
-    Golang, AWS, Linux, docker, NoSQL/Cassandra (Mongo & Redis don't count),
+    Go, AWS, Linux, docker, NoSQL/Cassandra (Mongo & Redis don't count),
     PostgreSQL, Git, Agile development, distributed system design, CI/CD
 
 Apply
